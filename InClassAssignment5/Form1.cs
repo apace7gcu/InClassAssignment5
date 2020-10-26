@@ -7,7 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+/*Amanda Pace
+ * Bill Hughes - CST-117
+ * 25 October 2020
+ * This program calculates what value of pi you would get given x terms.
+ * 
+ * This program was done partially during class with code provided by professor/classmate, 
+ * and then I finished the project on my own
+ * */
 namespace InClassAssignment5
 {
     public partial class Form1 : Form
